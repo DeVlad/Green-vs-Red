@@ -1,0 +1,23 @@
+{
+  "name": "green-vs-red",
+  "version": "0.0.1",
+  "description": "Game played on 2D grid",
+  "main": "green-vs-red.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeVlad/Green-vs-Red.git"
+  },
+  "author": "Deyan Vladkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeVlad/Green-vs-Red/issues"
+  },
+  "homepage": "https://github.com/DeVlad/Green-vs-Red#readme"
+}
